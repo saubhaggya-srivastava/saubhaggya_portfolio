@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/saubhaggya_portfolio/static/css/main.deb5c223.css",
+    "main.js": "/saubhaggya_portfolio/static/js/main.e3376a45.js",
+    "static/media/hero-dark.jpg": "/saubhaggya_portfolio/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/saubhaggya_portfolio/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/saubhaggya_portfolio/service-worker.js",
+    "static/media/GH.svg": "/saubhaggya_portfolio/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/logo.svg": "/saubhaggya_portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/saubhaggya_portfolio/index.html",
+    "main.deb5c223.css.map": "/saubhaggya_portfolio/static/css/main.deb5c223.css.map",
+    "main.e3376a45.js.map": "/saubhaggya_portfolio/static/js/main.e3376a45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb5c223.css",
+    "static/js/main.e3376a45.js"
+  ]
+}
